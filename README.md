@@ -14,5 +14,4 @@ And in the discord, deliver the text as follows:
 
 ```
 $jok
-
 ```
