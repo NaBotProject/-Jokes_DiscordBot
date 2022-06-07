@@ -6,7 +6,7 @@ import openpyxl
 import random
 
 
-path = "onelinefun.xlsx"
+path = "Data.xlsx"
 wb_obj = openpyxl.load_workbook(path) 
 sheet_obj = wb_obj.active 
 
