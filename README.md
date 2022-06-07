@@ -1,5 +1,8 @@
 # Jokes_DiscordBot
 
+Write jokes on Discord Channels with your request
+
+
 An .env file Make and put a token in it.
 
 you can make a token from :  
